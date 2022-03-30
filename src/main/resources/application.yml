@@ -1,0 +1,7 @@
+micronaut:
+  application:
+    name: timeTraveller
+netty:
+  default:
+    allocator:
+      max-order: 3
