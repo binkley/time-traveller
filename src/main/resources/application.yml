@@ -10,3 +10,7 @@ netty:
   default:
     allocator:
       max-order: 3
+restapi:
+  hateoas:
+    filter:
+      enabled: true
